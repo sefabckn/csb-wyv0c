@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sefabckn.github.io/csb-wyv0c/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://sefabckn.github.io/csb-wyv0c/static/js/main.066f5ffb.chunk.js",
-    "main.js.map": "https://sefabckn.github.io/csb-wyv0c/static/js/main.066f5ffb.chunk.js.map",
+    "main.js": "https://sefabckn.github.io/csb-wyv0c/static/js/main.2159a4e2.chunk.js",
+    "main.js.map": "https://sefabckn.github.io/csb-wyv0c/static/js/main.2159a4e2.chunk.js.map",
     "runtime-main.js": "https://sefabckn.github.io/csb-wyv0c/static/js/runtime-main.85584c14.js",
     "runtime-main.js.map": "https://sefabckn.github.io/csb-wyv0c/static/js/runtime-main.85584c14.js.map",
     "static/js/2.66c5283e.chunk.js": "https://sefabckn.github.io/csb-wyv0c/static/js/2.66c5283e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.85584c14.js",
     "static/js/2.66c5283e.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.066f5ffb.chunk.js"
+    "static/js/main.2159a4e2.chunk.js"
   ]
 }
